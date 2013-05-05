@@ -398,7 +398,7 @@ display_arch(){
 }
 display_gentoo(){
     echo -e "\\e${c2}                                           ."
-    echo "     .siv.                                d\@b"
+    echo "     .xss.                                d\@b"
     echo "  .d@@@@@@b.    .cd@@b.     .d@@b.   d@@@@@@@@@@@b  .d@@b.      .d@@b."
     echo "  @@@@( )@@@b d@@( )@@@.   d@@@@@@@b Q@@@@@@@P@@@P.@@@@@@@b.  .@@@@@@@b."
     echo "  Q@@@@@@@@@@B@@@@@@@@P\"  d@@@PQ@@@@b.   @@@@.   .BOOB' \`@@@ .@@@P' \`@@@"
