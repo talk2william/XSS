@@ -420,7 +420,7 @@ display_gentoo(){
     echo -e "\\e${c0}"
     echo -e "\\e${c4}♠ \\e${c3}${QUOTE_DISPLAY}\\e${c0}\n"
 }
-# **** Fuck it ****
+# **** get it ****
 arg=$1
 case $arg in
     -x){
