@@ -39,4 +39,4 @@ $ sudo chmod +x /path/to/xss
 ☯* Help *☯
 
 for help,
-./path/to/siv -h
+./path/to/xss -h
