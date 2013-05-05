@@ -1,2 +1,43 @@
-XSS
-===
+
+XXXXXXX       XXXXXXX   SSSSSSSSSSSSSSS    SSSSSSSSSSSSSSS 
+X:::::X       X:::::X SS:::::::::::::::S SS:::::::::::::::S
+X:::::X       X:::::XS:::::SSSSSS::::::SS:::::SSSSSS::::::S
+X::::::X     X::::::XS:::::S     SSSSSSSS:::::S     SSSSSSS
+XXX:::::X   X:::::XXXS:::::S            S:::::S            
+   X:::::X X:::::X   S:::::S            S:::::S            
+    X:::::X:::::X     S::::SSSS          S::::SSSS         
+     X:::::::::X       SS::::::SSSSS      SS::::::SSSSS    
+     X:::::::::X         SSS::::::::SS      SSS::::::::SS  
+    X:::::X:::::X           SSSSSS::::S        SSSSSS::::S 
+   X:::::X X:::::X               S:::::S            S:::::S
+XXX:::::X   X:::::XXX            S:::::S            S:::::S
+X::::::X     X::::::XSSSSSSS     S:::::SSSSSSSS     S:::::S
+X:::::X       X:::::XS::::::SSSSSS:::::SS::::::SSSSSS:::::S
+X:::::X       X:::::XS:::::::::::::::SS S:::::::::::::::SS 
+XXXXXXX       XXXXXXX SSSSSSSSSSSSSSS    SSSSSSSSSSSSSSS 
+
+
+XSS : X System Show
+Author : Arpan biswas # william
+Repo   : https://github.com/talk2william/XSS
+
+**** License ****
+The software is distributed under "THE BEER-WARE LICENSE" (Revision 42)
+The Beer-ware license was written by Poul-Henning Kamp. <phk@FreeBSD.ORG>
+----------------------------------------------------------------------------
+"THE BEER-WARE LICENSE" (Revision 42):
+As long as you retain this notice you
+can do whatever you want with this stuff. If we meet some day, and you think
+this stuff is worth it, you can buy me a beer in return.
+----------------------------------------------------------------------------
+
+☯* Installation *☯
+Download the archive or clone it.
+
+Give permissions
+$ sudo chmod +x /path/to/siv
+
+☯* Help *☯
+
+for help,
+./path/to/siv -h
